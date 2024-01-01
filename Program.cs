@@ -96,4 +96,16 @@ Console.WriteLine(currentDigit); }
 } }
 
 
-
+//int number, reverseNumber=0;
+  //       do
+    //       {
+      //         Console.WriteLine("input number");
+        //    } while(!int.TryParse(Console.ReadLine(), out number));
+          //  while(number>0)
+            //{
+              //  reverseNumber = reverseNumber * 10 + number % 10;
+                //number /= 10;
+            //}
+            //Console.WriteLine(reverseNumber);
+            //Console.ReadKey(true);
+          
